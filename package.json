@@ -12,7 +12,9 @@
   },
   "author": "",
   "license": "ISC",
-  "engines": { "node": "16.x" },
+  "engines": {
+    "node": "12.16.3"
+  },
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.4.3",
     "fs-extra": "^10.0.0",
